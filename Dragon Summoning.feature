@@ -1,4 +1,4 @@
-Feature: Dragon Summoning File
+Feature: Dragon Summoning
 
 Background:
 Given I import scenarios from "Utilities\Data Management Utilities.feature"
